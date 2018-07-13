@@ -1,0 +1,23 @@
+North
+	Wichita Falls
+North Central
+	Dallas-Fort Worth
+Far West
+	Midland
+West
+	Abilene
+East
+	Tyler
+South
+	Corpus Christi
+	Brownsville
+South Central
+	Austin
+	San Antonio
+Coast
+	Houston
+
+image source
+	http://www.ercot.com/about/weather
+
+

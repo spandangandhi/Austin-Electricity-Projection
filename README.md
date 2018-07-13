@@ -10,3 +10,4 @@ This project focuses on medium term forecasting, specifically making one-week-ou
 >>>>>>> f2b908c2aa8982063b5d4d8ffc1d5b8743325b75
 # Energy-Consumption-Analysis-through-K-Means
 # Energy-Consumption-Analysis-through-K-Means
+# Energy-Consumption-Analysis-through-K-Means
